@@ -15,7 +15,6 @@ const config: StorybookConfig = {
       options: storybookAddonStylingWebpackConfig,
     },
     "@storybook/addon-webpack5-compiler-babel",
-    "@chromatic-com/storybook",
   ],
   typescript: {
     reactDocgen: "react-docgen",
